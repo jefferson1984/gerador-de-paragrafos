@@ -1,6 +1,6 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-menu)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/gerador-de-paragrafos)
 
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-menu)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/gerador-de-paragrafos)
 
 ## Projeto Gerador de Parágrafos.
 
@@ -12,9 +12,9 @@ useState e Condicional
 
 ## Imagem do Projeto
 
-[projeto-menu.netlify.app](https://projeto-menu.netlify.app/)
+[projeto-paragrafos.netlify.app](https://gerador-de-paragrafos.netlify.app/)
 
-<img src="https://github.com/jefferson1984/projeto-menu/blob/main/menu2.png">
+<img src="https://github.com/jefferson1984/gerador-de-paragrafos/blob/main/lorem2.png">
 
 ## Reproduzir
 
